@@ -1,0 +1,5 @@
+Code,Name,Image name,Parent Category Code (optional)
+C3,Category 1,c1.png,
+SC3,Subcategory for C3,c1.png,C3
+C4,Category 2,c2.png,
+SC4,Subcategory for C4,c2.png,C4
